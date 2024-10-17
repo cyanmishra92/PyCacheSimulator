@@ -1,4 +1,4 @@
-# PYTHON Cache Simulator
+# Python Cache Simulator
 
 This is a simulator for a CPU cache that I wrote for a college course. It's
 meant to demonstrate some of the different
