@@ -13,10 +13,10 @@ To run the CPU cache simulator:
     simulator.py [-h] TRACE_FILE_NAME MEMORY CACHE BLOCK MAPPING REPLACE WRITE
 
 
-Once you start the simulator, you can enter commands to modify and read from the
+If you start the simulator in interactive mode, you can enter commands to modify and read from the
 memory (which is randomized on initilization), and therefore indirectly modify
 the cache. You can also print the contents of the memory and cache, as well as
-view statistics about the cache's performance.
+view statistics about the cache's performance. In the standard mode the simulator performs a large batch of random reads and writes.
 
 The arguments and commands, along with their descriptions, are listed below.
 
