@@ -69,3 +69,5 @@ options:
 Example:
 
     python generate_trace.py --fname trace.tr --seed 123456789
+
+It genrates a trace file of 1 million size. To get started with simulation, start with a smaller trace and then proceed with a larger trace. 
