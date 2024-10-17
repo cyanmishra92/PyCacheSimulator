@@ -1,6 +1,6 @@
 # Python Cache Simulator
 
-This is a simulator for a CPU cache that I wrote for a college course. It's
+This is a simulator for a CPU cache. It's
 meant to demonstrate some of the different
 [replacement](https://en.wikipedia.org/wiki/CPU_cache#Replacement_policies),
 [write](https://en.wikipedia.org/wiki/CPU_cache#Write_policies), and [mapping
